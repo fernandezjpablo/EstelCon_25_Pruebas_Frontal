@@ -1,2 +1,2 @@
 # EstelCon_25_Pruebas_Frontal
-Created with CodeSandbox
+Pruebas del frontal de la EstelCon con Vue
